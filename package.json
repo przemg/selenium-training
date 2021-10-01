@@ -1,0 +1,12 @@
+{
+  "name": "selenium-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "selenium-webdriver": "^4.0.0-rc-2"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
